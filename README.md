@@ -42,7 +42,6 @@ _Aplicacion de videoconferencia funcionando_
 - [x] Group text chat
 - [x] Unique username checking
 - [x] 'User is typing...'
-- [ ] Limit number of users per room
 
 ### Pruebas de estilo de codificación ⌨️
 
@@ -57,6 +56,8 @@ _Modificación de estilos CSS, fuentes de chat, etc_
 ## Construido con 🛠️
 
 * [Node JS](https://nodejs.org/en) -  Server environment
+* [Peer JS](https://peerjs.com/) -  WebRTC framework
+* [Express JS](https://expressjs.com/) - Backend web application framework
 * [Railway](https://railway.app/) -  Hosting platform
 * [Visual Studio Code](https://code.visualstudio.com/) - Editor de Código
 * [HTML](https://html.com/document/) - Lenguaje de programación
