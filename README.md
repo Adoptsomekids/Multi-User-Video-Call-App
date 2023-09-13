@@ -1,3 +1,7 @@
+![image](https://github.com/Adoptsomekids/Multi-User-Video-Call-App/assets/83385717/5a670fb0-9f56-436b-a714-4c7b8aeb69e0)
+
+![image](https://github.com/Adoptsomekids/Multi-User-Video-Call-App/assets/83385717/17876140-fd1b-4cb4-a75e-fc3bbdea3524)
+
 # ZoomCord
 Google Meet / Zoom / Discord clone
 
